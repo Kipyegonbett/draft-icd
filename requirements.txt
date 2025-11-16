@@ -1,7 +1,5 @@
 streamlit
 tensorflow
 numpy
-pandas
 scikit-learn
-regex
-nltk
+pandas
